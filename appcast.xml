@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>AlfaSign for Windows</title>
-    <link>https://tvalfa.github.io/windows-versions/appcast.xml</link>
-    <description>AlfaSign for Windows updates</description>
+    <title>AlfaSign</title>
+    <description>Most recent changes with links to updates</description>
     <language>en</language>
+    <item>
+      <title>AlfaSign 1.0.0</title>
+      <pubDate>Fri, 05 Jun 2026 13:27:08 +03:00</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/tvalfa/windows-versions/releases/download/win-v1.0.0/AlfaSign-Setup-1.0.0.exe" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="9464208" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="VXLjB7wYwBTaFxLnzBVcxsWJA5PUx8o7s2ZZLjzP5wUTV/8fHg1PQTMP1obRcp1d6YPjJ16TsrLZ7TkZkxTBCA==" />
+    </item>
   </channel>
 </rss>
