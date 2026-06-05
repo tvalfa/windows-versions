@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AlfaSign for Windows</title>
+    <link>https://tvalfa.github.io/windows-versions/appcast.xml</link>
+    <description>AlfaSign for Windows updates</description>
+    <language>en</language>
+  </channel>
+</rss>
