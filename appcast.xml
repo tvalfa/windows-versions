@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>AlfaSign 1.1.0</title>
-      <pubDate>Tue, 23 Jun 2026 10:46:32 +03:00</pubDate>
-      <sparkle:version>1.1.0</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/tvalfa/windows-versions/releases/download/win-v1.1.0/AlfaSign-Setup-1.1.0.exe" sparkle:version="1.1.0" sparkle:shortVersionString="1.1.0" length="9518072" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="RcrrrPs3Z1fdgVApBl5K1ZH476uyrsyflCU6Zf4SA1GTdEyNgU4KxTyzIP3Z352f5HhDVp5UsjGBvYqg+FsKBw==" />
+      <title>AlfaSign 1.1.1</title>
+      <pubDate>Tue, 23 Jun 2026 12:44:25 +03:00</pubDate>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/tvalfa/windows-versions/releases/download/win-v1.1.1/AlfaSign-Setup-1.1.1.exe" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" length="9593416" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="ke9BWIOhQ9ydK8/aY0BSufulOnRheBt0yD+SizaEDf+e1N87vU4kJvZoz61Bc9wBWq8BgBUIukRtwxUmM/KBCA==" />
     </item>
   </channel>
 </rss>
